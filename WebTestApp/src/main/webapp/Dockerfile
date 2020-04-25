@@ -1,3 +1,3 @@
-FROM devopstrainingatl/apache
+FROM devopstrainingatl/myphpapp
 
-ADD ./index.jsp /var/www/jsp
+ADD ./index.html /var/www/html
