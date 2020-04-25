@@ -1,3 +1,3 @@
 FROM devopstrainingatl/apache
 
-ADD ./index.jsp /var/www/html
+ADD ./index.jsp /var/www/jsp
